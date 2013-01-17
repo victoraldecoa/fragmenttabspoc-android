@@ -1,4 +1,4 @@
-package in.wptrafficanalyzer.navigationtabdemo;
+package br.com.victoraldecoa.fragmenttabspoc;
 
 import android.os.Bundle;
 import android.support.v4.app.ListFragment;
