@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">NavigationTabDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    
+    <string name="str_tv_android_tab">Android Tab Content</string>
+    <string name="str_tv_apple_tab">Apple Tab Content</string>
+
+</resources>
